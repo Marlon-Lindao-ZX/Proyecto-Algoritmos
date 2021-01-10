@@ -1,0 +1,4 @@
+El tiempo que toma Floyd con 10 nodos en ejecutarse es de: 0.15374493598937988
+El tiempo que toma Floyd con 100 nodos en ejecutarse es de: 168.27494549751282
+El tiempo que toma Floyd con 200 nodos en ejecutarse es de: 1517.6769881248474
+El tiempo que toma Floyd con 500 nodos en ejecutarse es de: 21303.930930137634

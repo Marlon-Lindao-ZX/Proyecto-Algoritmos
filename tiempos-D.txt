@@ -1,0 +1,2 @@
+El tiempo que toma Johnson en ejecutarse con un grafo de: 100 es de: 0.36865735054016113
+El tiempo que toma Johnson en ejecutarse con un grafo de: 200 es de: 4.713752746582031

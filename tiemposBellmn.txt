@@ -1,0 +1,16 @@
+El tiempo que toma Bellman con 100 nodos en ejecutarse es de: 0.0009989738464355469
+El tiempo que toma Bellman con 200 nodos en ejecutarse es de: 0.09992098808288574
+El tiempo que toma Bellman con 500 nodos en ejecutarse es de: 0.5467464923858643
+El tiempo que toma Bellman con 500 nodos en ejecutarse es de: 0.3592863082885742
+El tiempo que toma Bellman con 600 nodos en ejecutarse es de: 0.5155017375946045
+El tiempo que toma Bellman con 1000 nodos en ejecutarse es de: 1.5777537822723389
+El tiempo que toma Bellman con 1000 nodos en ejecutarse es de: 1.608994960784912
+El tiempo que toma Bellman con 2000 nodos en ejecutarse es de: 6.389117240905762
+El tiempo que toma Bellman con 3000 nodos en ejecutarse es de: 13.793619155883789
+El tiempo que toma Bellman con 4000 nodos en ejecutarse es de: 27.673361778259277
+El tiempo que toma Bellman con 10 nodos en ejecutarse es de: 0.0
+El tiempo que toma Bellman con 100 nodos en ejecutarse es de: 0.1249547004699707
+El tiempo que toma Bellman con 200 nodos en ejecutarse es de: 0.03124260902404785
+El tiempo que toma Bellman con 500 nodos en ejecutarse es de: 0.4530196189880371
+El tiempo que toma Bellman con 100 nodos en ejecutarse es de: 0.04488062858581543
+El tiempo que toma Bellman con 200 nodos en ejecutarse es de: 0.07878923416137695
